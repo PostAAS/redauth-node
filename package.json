@@ -9,7 +9,7 @@
     "@typescript-eslint/parser": "^2.19.2",
     "bcrypt": "^3.0.8",
     "eslint": "^6.8.0",
-    "knex": "^0.20.10",
+    "knex": "^2.4.0",
     "koa": "^2.11.0",
     "koa-bodyparser": "^4.2.1",
     "koa-compress": "^3.0.0",
